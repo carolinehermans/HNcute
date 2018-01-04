@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'OpenSans'
+  src: url("OpenSans-Regular.ttf")
+}
+
+body {
+  background-color: #fbbfdf !important;
+}
+
+.title {
+  font-size: 15px !important;
+  font-family: "OpenSans", sans-serif !important;
+}
+
+a {
+  color: #2722BD !important;
+}
+
+a:visited {
+  color: #BB9DE1 !important;
+}
+
+.subtext, .subtext > a, .subtext > span > a {
+  padding-top: 3px !important;
+  font-size: 12px !important;
+  color: #BB9DE1 !important;
+  font-family: "OpenSans", sans-serif !important;
+}
+
+.spacer {
+  height: 11px !important;
+}
+
+.rank {
+  color: #2722BD !important;
+  padding-right: 4px !important;
+}
+
+.sitebit, .sitebit > a, .sitebit > a > span {
+  color: #BB9DE1 !important;
+}
+
+.votearrow {
+  padding-right: 3px !important;
+  background: url("upvote.png") no-repeat !important;
+}
+
+table {
+  padding: 10px !important;
+  background-color: #ffecf6 !important;
+}
+
+.hnname {
+  display: none !important;
+}
+
+.pagetop {
+  background-color: #FFEEF7 !important;
+  padding: 5px !important;
+  font-family: "OpenSans", sans-serif !important;
+  float: right;
+  font-size: 12px !important;
+  color: #2722BD !important;
+}
+
+.comhead {
+  font-family: "OpenSans", sans-serif !important;
+  font-size: 14px !important;
+}
+
+.comment > span {
+  font-family: "OpenSans", sans-serif !important;
+  font-size: 13px !important;
+  color: #6d4fc3 !important;
+}
+
+p {
+  font-size: 13px !important;
+  color: #6d4fc3 !important;
+}
+
+.pagetop > a {
+  padding-left: 5px;
+}

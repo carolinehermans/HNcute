@@ -1,7 +1,7 @@
 {
   "name": "HNcute",
   "description": "Make HN cute!",
-  "version": "1.6",
+  "version": "1.7",
   "manifest_version": 2,
   "content_scripts": [{
     "css": ["styles.css"],

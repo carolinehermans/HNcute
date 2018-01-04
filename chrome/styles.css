@@ -8,7 +8,7 @@ body {
 }
 
 .title {
-  font-size: 15px !important;
+  font-size: 16px !important;
   font-family: "OpenSans", sans-serif !important;
 }
 
@@ -65,17 +65,17 @@ table {
 
 .comhead {
   font-family: "OpenSans", sans-serif !important;
-  font-size: 14px !important;
+  font-size: 15px !important;
 }
 
 .comment > span {
   font-family: "OpenSans", sans-serif !important;
-  font-size: 13px !important;
+  font-size: 14px !important;
   color: #6d4fc3 !important;
 }
 
 p {
-  font-size: 13px !important;
+  font-size: 14px !important;
   color: #6d4fc3 !important;
 }
 

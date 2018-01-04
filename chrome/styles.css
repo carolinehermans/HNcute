@@ -82,3 +82,11 @@ p {
 .pagetop > a {
   padding-left: 5px;
 }
+
+font[color="#ff6600"] {
+   color: #ff83c6 !important;
+}
+  
+td[bgcolor="#ff6600"] {
+   background-color: #fbbfdf !important;
+}

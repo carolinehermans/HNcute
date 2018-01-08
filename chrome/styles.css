@@ -45,6 +45,10 @@ a:visited {
   background: url("chrome-extension://efcgbnccnagdhbdhnghlldlolfppcfia/upvote.png") no-repeat !important;
 }
 
+.votearrow.rotate180 {
+  margin-left: -3px;
+}
+
 table {
   padding: 10px !important;
   background-color: #ffecf6 !important;

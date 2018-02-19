@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'OpenSans'
-  src: url("chrome-extension://fhgaoaenlbjpegbchbpdmjlhlhkbichp/OpenSans-Regular.ttf")
+  font-family: 'OpenSans';
+  src: url("chrome-extension://fhgaoaenlbjpegbchbpdmjlhlhkbichp/OpenSans-Regular.ttf");
 }
 
 body {
@@ -78,7 +78,8 @@ table {
   color: #6d4fc3 !important;
 }
 
-p {
+
+p, td {
   font-size: 14px !important;
   color: #6d4fc3 !important;
 }
